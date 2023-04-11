@@ -2,3 +2,8 @@
 	path = xmarts/transport_module
 	url = git@github.com:xmarts/transport_module.git
 	branch = main
+
+[submodule "xmarts/tms_rosch_v15"]
+	path = xmarts/tms_rosch_v15
+	url = git@github.com:xmarts/tms_rosch_v15.git
+	branch = main
