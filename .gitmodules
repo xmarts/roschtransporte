@@ -16,3 +16,6 @@
 [submodule "xma_einvoice"]
 	path = xma_einvoice
 	url = git@gitlab.xmarts.com:xmarts/localizaciones/cliente/xma_einvoice.git
+[submodule "l10n_xma_einvoice_delivery_base"]
+	path = l10n_xma_einvoice_delivery_base
+	url = git@gitlab.xmarts.com:xmarts/localizaciones/cliente/l10n_xma_einvoice_delivery_base.git
