@@ -10,3 +10,6 @@
 [submodule "l10n_xma_certificates"]
 	path = l10n_xma_certificates
 	url = git@gitlab.xmarts.com:xmarts/localizaciones/cliente/l10n_xma_certificates.git
+[submodule "xma_core"]
+	path = xma_core
+	url = git@gitlab.xmarts.com:xmarts/localizaciones/cliente/xma_core.git
