@@ -13,3 +13,6 @@
 [submodule "xma_core"]
 	path = xma_core
 	url = git@gitlab.xmarts.com:xmarts/localizaciones/cliente/xma_core.git
+[submodule "xma_einvoice"]
+	path = xma_einvoice
+	url = git@gitlab.xmarts.com:xmarts/localizaciones/cliente/xma_einvoice.git
